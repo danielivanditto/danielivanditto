@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @danielivanditto
-- 👀 I’m interested in programing in c#
-- 🌱 I’m currently learning Unity c# development
-- 💞️ I’m looking to collaborate with bubbles / bubbaboogs
-- 📫 How to reach me - danielivanditto2@icloud.com
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: no.
+Hey welcome to my profile, my real name is Daniel Ivanditto. If you've came here, it would be for either my projects, SmellGrow or just to look 😉
+If there is anything you need or wish to ask my email is danielivanditto2@gmail.com
+Thanks for reading!
+
+[SMELLGROW IS NOT OUT YET!] - 4/9/25
 
 <!---
 danielivanditto/danielivanditto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
